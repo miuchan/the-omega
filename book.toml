@@ -4,6 +4,12 @@ language = "en"
 src = "docs"
 title = "The Omega Framework"
 
+[preprocessor.mermaid]
+command = "mdbook-mermaid"
+
+[preprocessor.katex]
+after = ["links", "mermaid"]
+
 [output.html]
 git-repository-url = "https://github.com/loning/the-omega"
 mathjax-support = true

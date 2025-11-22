@@ -48,6 +48,10 @@ jobs:
           if ! command -v mdbook-katex &> /dev/null; then
             cargo install mdbook-katex
           fi
+          # Check if mdbook-mermaid is already installed
+          if ! command -v mdbook-mermaid &> /dev/null; then
+            cargo install mdbook-mermaid
+          fi
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v4
