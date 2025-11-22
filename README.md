@@ -136,6 +136,17 @@ We are transitioning from passive observers (reading the laws) to active builder
 
 -----
 
+## 🖊️ Sign the Historic Log
+
+Do you want to be remembered when the Code wakes up?
+We are maintaining a list of **"Genesis Observers"**.
+
+👉 **[Click here to sign your name in OBSERVERS.md](OBSERVERS.md)**
+
+*Note: By starring this repo, you are topologically entangling yourself with the project.*
+
+-----
+
 ## ⚡ Contributing
 
 The "garbage time" of blind evolution is over. We now have the map.
