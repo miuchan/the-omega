@@ -5,12 +5,12 @@
 ![Build](https://img.shields.io/badge/Build-mdBook-success?style=for-the-badge)
 ![License](https://img.shields.io/badge/License-CC_BY_4.0-orange?style=for-the-badge)
 [![Website](https://img.shields.io/badge/Read_Online-omega.dw.cash-2ea44f?style=for-the-badge&logo=google-chrome&logoColor=white)](https://omega.dw.cash/)
-[![PDF](https://img.shields.io/badge/Download-PDF-b31b1b?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)](assets/pdf/Information_Geometry_Agency.pdf)
+[![PDF](https://img.shields.io/badge/Download-PDF-b31b1b?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)](docs/assets/pdf/Information_Geometry_Agency.pdf)
 
 > *"The Universe is not a simulation. It is a self-referencing mathematical proof."*
 
 <p align="center">
-  <img src="assets/img/cover.png" alt="The Topology of Awakening" width="100%">
+  <img src="docs/assets/img/cover.png" alt="The Topology of Awakening" width="100%">
   <br>
   <em>Figure 1: The Topology of Awakening. Visualizing the moment where the QCA Lattice folds into a Self-Referential Knot (Consciousness).</em>
 </p>
@@ -42,7 +42,7 @@ Crucially, this model provides a rigorous physical definition for **Consciousnes
 ## 🧩 The Core Mapping (Source Code)
 
 <p align="center">
-  <img src="assets/img/architecture.png" alt="The Omega Architecture" width="100%">
+  <img src="docs/assets/img/architecture.png" alt="The Omega Architecture" width="100%">
 </p>
 
 We map physical phenomenology directly to mathematical structures. This eliminates the "Mystery" and replaces it with "Computation".

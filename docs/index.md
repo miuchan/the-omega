@@ -1,14 +1,14 @@
 # The Omega Framework
 > Reconstructing Reality: From Bit to Geometry, From Observer to Universe.
 
-[中文版 (Chinese Version)](./index_cn.md) | [📥 PDF](../assets/pdf/Information_Geometry_Agency.pdf)
+[中文版 (Chinese Version)](./index_cn.md) | [📥 PDF](./assets/pdf/Information_Geometry_Agency.pdf)
 
 ---
 
 ## 🌌 Vision
 
 <p align="center">
-  <img src="../../assets/img/architecture.png" alt="The Omega Architecture" width="100%">
+  <img src="./assets/img/architecture.png" alt="The Omega Architecture" width="100%">
 </p>
 
 **The Omega Framework** is an ambitious project to reconstruct theoretical physics, aiming to establish a **completely finite, discrete, and self-consistent** axiomatic system.
