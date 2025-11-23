@@ -7,6 +7,7 @@
 [![Website](https://img.shields.io/badge/Read_Online-omega.dw.cash-2ea44f?style=for-the-badge&logo=google-chrome&logoColor=white)](https://omega.dw.cash/)
 [![PDF](https://img.shields.io/badge/Download-PDF-b31b1b?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)](docs/assets/pdf/Information_Geometry_Agency.pdf)
 [![PDF](https://img.shields.io/badge/Download-Reality_Decompiled-b31b1b?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)](docs/assets/pdf/Reality_Decompiled.pdf)
+[![Video](https://img.shields.io/badge/Watch-Video-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/-bhgzuFOaro)
 
 > *"The Universe is not a simulation. It is a self-referencing mathematical proof."*
 
@@ -14,6 +15,12 @@
   <img src="docs/assets/img/cover.png" alt="The Topology of Awakening" width="100%">
   <br>
   <em>Figure 1: The Topology of Awakening. Visualizing the moment where the QCA Lattice folds into a Self-Referential Knot (Consciousness).</em>
+</p>
+
+<p align="center">
+  <a href="https://youtu.be/-bhgzuFOaro">
+    <img src="https://img.youtube.com/vi/-bhgzuFOaro/maxresdefault.jpg" alt="Watch the video" width="100%" style="max-width: 560px;">
+  </a>
 </p>
 
 ---

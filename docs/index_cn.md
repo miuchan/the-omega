@@ -1,7 +1,7 @@
 # The Omega Framework
 > 重构实在：从比特到几何，从观察者到宇宙。
 
-[English Version](./index.md) | [📥 PDF](./assets/pdf/Information_Geometry_Agency.pdf) | [📥 Reality Decompiled](./assets/pdf/Reality_Decompiled.pdf)
+[English Version](./index.md) | [📥 PDF](./assets/pdf/Information_Geometry_Agency.pdf) | [📥 Reality Decompiled](./assets/pdf/Reality_Decompiled.pdf) | [▶️ Video](https://youtu.be/-bhgzuFOaro)
 
 ---
 
@@ -9,6 +9,12 @@
 
 <p align="center">
   <img src="./assets/img/architecture.png" alt="The Omega Architecture" width="100%">
+</p>
+
+<p align="center">
+  <a href="https://youtu.be/-bhgzuFOaro">
+    <img src="https://img.youtube.com/vi/-bhgzuFOaro/maxresdefault.jpg" alt="观看视频" width="100%" style="max-width: 560px;">
+  </a>
 </p>
 
 **The Omega Framework** 是一项宏大的理论物理重构工程，旨在建立一个**完全有限、离散且自洽**的物理公理体系。
