@@ -9,6 +9,8 @@
 [![PDF](https://img.shields.io/badge/Download-Reality_Decompiled-b31b1b?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)](docs/books/book-first-principles-from-unitary-computation-to-physical-reality/Reality_Decompiled.pdf)
 [![Video](https://img.shields.io/badge/Watch-Video-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/-bhgzuFOaro)
 
+[中文版 (Chinese Version)](README_cn.md)
+
 ---
 
 ## 🚀 Abstract
