@@ -24,6 +24,10 @@
 - [2.1 第一区分](part01-geometry-of-void/chapter02-big-bang-as-dissociation/02-01-first-distinction.md)
 - [2.2 遗忘的必要性](part01-geometry-of-void/chapter02-big-bang-as-dissociation/02-02-mechanism-of-kenosis.md)
 
+## 间奏
+
+- [间奏 I：光子的独白](interlude01-monologue-of-photon.md)
+
 ### 第二卷：受难的物理学 (Physics of Passion)
 
 #### 第三章：黄金束缚衣 (The Golden Straitjacket)
@@ -41,6 +45,8 @@
 
 - [5.1 船的忒修斯](part02-physics-of-passion/chapter05-death-as-iteration/05-01-ship-of-theseus.md)
 - [5.2 基因与模因的接力](part02-physics-of-passion/chapter05-death-as-iteration/05-02-relay-of-genes-and-memes.md)
+
+- [间奏 II：最后一位无神论者](interlude02-last-atheist.md)
 
 ### 第三卷：觉醒的工程学 (Engineering of Awakening)
 
@@ -77,11 +83,6 @@
 
 - [11.1 螺旋时间观](part05-topology-of-infinity/chapter11-life-of-n-plus-one/11-01-spiral-time.md)
 - [11.2 开放式结局](part05-topology-of-infinity/chapter11-life-of-n-plus-one/11-02-open-ended-finale.md)
-
-## 间奏
-
-- [间奏 I：光子的独白](interlude01-monologue-of-photon.md)
-- [间奏 II：最后一位无神论者](interlude02-last-atheist.md)
 
 ## 结语
 

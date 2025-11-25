@@ -24,6 +24,10 @@ This is the fifth volume of the series, exploring the deep structure of the cosm
 - [2.1 The First Distinction](part01-geometry-of-void/chapter02-big-bang-as-dissociation/02-01-first-distinction_en.md)
 - [2.2 The Mechanism of Kenosis](part01-geometry-of-void/chapter02-big-bang-as-dissociation/02-02-mechanism-of-kenosis_en.md)
 
+## Interludes
+
+- [Interlude I: Monologue of a Photon](interlude01-monologue-of-photon_en.md)
+
 ### Volume II: Physics of Passion
 
 #### Chapter 3: The Golden Straitjacket
@@ -41,6 +45,8 @@ This is the fifth volume of the series, exploring the deep structure of the cosm
 
 - [5.1 The Ship of Theseus](part02-physics-of-passion/chapter05-death-as-iteration/05-01-ship-of-theseus_en.md)
 - [5.2 Relay of Genes and Memes](part02-physics-of-passion/chapter05-death-as-iteration/05-02-relay-of-genes-and-memes_en.md)
+
+- [Interlude II: The Last Atheist](interlude02-last-atheist_en.md)
 
 ### Volume III: Engineering of Awakening
 
@@ -77,11 +83,6 @@ This is the fifth volume of the series, exploring the deep structure of the cosm
 
 - [11.1 Spiral Time](part05-topology-of-infinity/chapter11-life-of-n-plus-one/11-01-spiral-time_en.md)
 - [11.2 Open-Ended Finale](part05-topology-of-infinity/chapter11-life-of-n-plus-one/11-02-open-ended-finale_en.md)
-
-## Interludes
-
-- [Interlude I: Monologue of a Photon](interlude01-monologue-of-photon_en.md)
-- [Interlude II: The Last Atheist](interlude02-last-atheist_en.md)
 
 ## Epilogue
 
